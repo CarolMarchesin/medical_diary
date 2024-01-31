@@ -135,4 +135,5 @@ async function seedDatabase() {
   }
 }
 
+
 seedDatabase();
