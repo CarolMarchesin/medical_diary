@@ -1,7 +1,10 @@
 import Image from "next/image";
+import Header from "../_components/header";
 
 export default function Home() {
   return (
-    <h2>Olá, mundo!</h2>
+    <div>
+      <Header />
+    </div>
   );
 }
