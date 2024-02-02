@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    // images: {
+    //     remotePatterns: {
+    //         path: 'https:',
+    //     }
+    // },
+};
 
 export default nextConfig;
